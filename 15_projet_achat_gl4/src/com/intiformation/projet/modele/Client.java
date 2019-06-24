@@ -52,7 +52,7 @@ public class Client {
 		this.telephone = telephone;
 	}
 
-	/* ------------------ GETTERS et SETTERS -------------------- */
+	/* ------------------ GETTERS & SETTERS -------------------- */
 
 	public int getIdClient() {
 		return idClient;
